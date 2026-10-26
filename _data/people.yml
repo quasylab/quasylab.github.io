@@ -1,0 +1,36 @@
+members:
+  - name: Michele Loreti
+    role: Coordinator
+    homepage: http://micheleloreti.com
+    dblp: https://dblp.org/pid/l/MicheleLoreti.html
+  - name: Luca Tesei
+    homepage: https://www.lucatesei.com/doku.php
+    dblp: https://dblp.org/pid/84/1927.html
+  - name: Michela Quadrini
+    homepage: https://computerscience.unicam.it/michela-quadrini
+    dblp: https://dblp.org/pid/194/5126.html
+  - name: Diletta Romana Cacciagrano
+    homepage: https://computerscience.unicam.it/cacciagrano/
+    dblp: https://dblp.org/pid/19/6630.html
+  - name: Marco Quadrini
+    role: PhD Student
+    dblp: https://dblp.org/pid/396/3901.html
+  - name: Marta Capuani
+    role: PhD Student
+
+alumni:
+  - name: Nicola Del Giudice
+    role: PhD
+    dblp: https://dblp.org/pid/221/2813-2.html
+  - name: Mattia Paccamiccio
+    role: PhD
+    dblp: https://dblp.org/pid/317/3600.html
+  - name: Lorenzo Matteucci
+    role: PhD
+    dblp: https://dblp.org/pid/322/3124.html
+  - name: Matteo Belenchia
+    role: PhD
+    dblp: https://dblp.org/pid/310/7781.html
+  - name: Aniqa Rehman
+    role: PhD
+    dblp: https://dblp.org/pid/258/3722.html
