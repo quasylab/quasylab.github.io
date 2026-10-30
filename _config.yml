@@ -289,6 +289,11 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - Appraisals
+  - beautiful-jekyll-theme.gemspec
+  - staticman.yml
+  - bib_files/
+  - "Untitled_presentation_*"
 
 plugins:
   - jekyll-paginate
