@@ -12,6 +12,10 @@
 # Name of website
 title: QuasyLab
 
+# Address where the site is published (used to build absolute links)
+url: "https://quasylab.unicam.it"
+baseurl: ""
+
 # Your name to show in the footer
 author: Michele Loreti
 
@@ -92,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "quasylab.github.io"
+url-pretty: "quasylab.unicam.it"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
